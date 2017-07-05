@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# VS
+.vs/
+Win32/
+x64/
